@@ -1,8 +1,7 @@
 {
-	"version": 2,
 	"builds": [
 		{
-			"src": "./kentot.py",
+			"src": "kentot.py",
 			"user": "@vercel/python"
 		}
 				],
