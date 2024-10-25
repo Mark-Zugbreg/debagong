@@ -1,6 +1,6 @@
 flask
 Flask-SQLAlchemy
-psycopg2
+psycopg2-binary
 ffmpy>=0.3.0
 spotipy>=2.16.1
 tldextract>=3.1.0
