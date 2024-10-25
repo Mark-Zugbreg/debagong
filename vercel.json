@@ -1,0 +1,16 @@
+{
+	"version": 2,
+	"builds": [
+		{
+			"src": "./kentot.py",
+			"user": "@vercel/python"
+		}
+				],
+	"routes": [
+		{
+			"src": "./(.*)",
+			"dest": "kentot.py"
+		}
+	]
+}
+		
